@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="iow_a_roads" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>iow_a_roads</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="LineStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffad0062</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>iow_a_roads</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>A3020</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY DUAL C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.286246094735011,50.70276366007192,0 -1.29291649415662,50.70571434745783,0 -1.293444250311855,50.70593364815943,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>A3020</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.300829807884919,50.71238441666484,0 -1.301754551640079,50.71419036008158,0 -1.301991804779503,50.71511261678042,0 -1.301901135897437,50.71700662296247,0 -1.301350313211344,50.71919132719442,0 -1.301286979893773,50.71981054263905,0 -1.301834282443609,50.72102333347701,0 -1.302371455632056,50.72300493347784,0 -1.303302098848718,50.72750713412852,0 -1.3038176881985,50.73095653682828,0 -1.303929020993474,50.73252672003309,0 -1.303569459754175,50.73410884404556,0 -1.303621490690449,50.73471959831043,0 -1.304231969709126,50.73589619473429,0 -1.306109351760737,50.73849491871285,0 -1.304663088937871,50.74046485466706,0 -1.303745111011685,50.74207703962967,0 -1.303492073242591,50.74298103274167,0 -1.303689974176385,50.74358105460318,0 -1.304495728792021,50.7447778741623,0 -1.304571913442021,50.74537698967912,0 -1.303737818948475,50.74687995926036,0 -1.303392718837717,50.74843808954175,0 -1.302222416684213,50.7521410608754,0 -1.299387576545467,50.75212409757807,0 -1.297971291413525,50.75290383282673,0 -1.297563442992534,50.75342675080906,0 -1.297890211292191,50.75691060749649,0 -1.298263088372224,50.75822006433594,0 -1.298231616177227,50.75881844626008,0 -1.298044758663655,50.75907461160615,0 -1.297445620466373,50.75952928930793,0 -1.296105149923954,50.76018486833189,0 -1.294252629467643,50.75952190485347,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>A3020</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.279406460315038,50.67317999799425,0 -1.28142269068253,50.6738464130862,0 -1.281982051852525,50.67428718414487,0 -1.2820838068178,50.67457495257284,0 -1.282110608082682,50.67588996087151,0 -1.283342277916143,50.678942707442,0 -1.283773957082273,50.67950130134126,0 -1.284843114258898,50.68056462269395,0 -1.285246196210534,50.68114435137963,0 -1.28550598216737,50.6817469399518,0 -1.285708230224534,50.68363290509779,0 -1.285561322618806,50.6874278177825,0 -1.285659151802521,50.68771628167909,0 -1.285941160922764,50.68795767464093,0 -1.286747497304851,50.68837818547509,0 -1.290928525390487,50.69011034175275,0 -1.292281910920081,50.69086419020941,0 -1.292416424218178,50.69106995750511,0 -1.291225654084518,50.69182287550854,0 -1.291729617236686,50.69596266222133,0 -1.29214018068081,50.69776184393542,0 -1.292124133613332,50.69835761230458,0 -1.292011047291355,50.69860845366901,0 -1.291781512764166,50.69880660700948,0 -1.291393323011725,50.69893400858398,0 -1.287708036145129,50.69935429796953,0 -1.287274414228164,50.69946998660942,0 -1.286945744164737,50.69966770259646,0 -1.286489744690332,50.70024071724347,0 -1.286253590295743,50.7008726294979,0 -1.286246094735011,50.70276366007192,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>A3020</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.176258232116328,50.62757667554067,0 -1.181283011178757,50.62725493364303,0 -1.186725661377653,50.62729051011,0 -1.189828793029974,50.62714478944225,0 -1.190793507618838,50.62718162603507,0 -1.191643225831741,50.62736190304333,0 -1.191994846413097,50.6275431240359,0 -1.192564227540475,50.62806947501263,0 -1.193319139728756,50.628983085786,0 -1.193935759826702,50.62945256158169,0 -1.194326851068935,50.62958422744173,0 -1.194785554360605,50.62963155619792,0 -1.196867148583708,50.62951913419163,0 -1.202616958863221,50.6293773596982,0 -1.204609521587476,50.62943631385745,0 -1.205557858772076,50.62929881228249,0 -1.20783565520265,50.62860506160187,0 -1.208298068406397,50.62853257655689,0 -1.209249247289427,50.62853589329976,0 -1.210715624196901,50.62877624221968,0 -1.21254241937515,50.62929545329523,0 -1.21720077414242,50.63109649414243,0 -1.219531589943567,50.63181637537866,0 -1.220897466598498,50.63215834926699,0 -1.221364801953639,50.63221687129327,0 -1.222839754288814,50.6320332862986,0 -1.224533556965218,50.63271931618684,0 -1.224989488932181,50.63277540958309,0 -1.225948946033008,50.63271038724794,0 -1.227924798630832,50.6324270973789,0 -1.229904130094544,50.63244020348449,0 -1.231685978950923,50.63258929503101,0 -1.232133678044336,50.63271724948688,0 -1.233361571881973,50.63336941219789,0 -1.233775064286127,50.63351476125669,0 -1.234210257208961,50.63354298393966,0 -1.235113991550715,50.63342652993511,0 -1.236032642157983,50.63320953614064,0 -1.241535852113024,50.63161095634003,0 -1.244542476014043,50.63043569913251,0 -1.244973366990096,50.63037806107899,0 -1.245409539306218,50.63042324488507,0 -1.247175638282304,50.63111427149929,0 -1.248542395980915,50.63229901548394,0 -1.249526860032954,50.63299638140654,0 -1.25161666082067,50.63387270321216,0 -1.252322752434309,50.63428686586121,0 -1.2530451211353,50.63546867331457,0 -1.252877406060288,50.63685277508257,0 -1.252942830576825,50.63746282392319,0 -1.253091325249971,50.63773877946648,0 -1.25341429057384,50.63797223785306,0 -1.254603126574323,50.6386086371332,0 -1.25472783147563,50.63887850294542,0 -1.254344878456069,50.63984440738354,0 -1.254494553297517,50.64010930731069,0 -1.25512359697822,50.64057403882322,0 -1.261353409470321,50.64427751430316,0 -1.262007429898916,50.64476278015536,0 -1.262211479908439,50.6450272948446,0 -1.262270595425556,50.64531679065399,0 -1.261921396230682,50.6462833817077,0 -1.261897052803431,50.64659159346164,0 -1.26202527376655,50.64687577182715,0 -1.262565884370316,50.64740734831786,0 -1.263246925430732,50.64789583549589,0 -1.264076165330883,50.64823336541464,0 -1.266155105340297,50.64906879264361,0 -1.267058039998135,50.64930883306414,0 -1.27289802483176,50.65008267614991,0 -1.274308381063971,50.65035100719999,0 -1.275614138080379,50.65078126165028,0 -1.278527959241264,50.65199629976245,0 -1.281441657903915,50.65508519673259,0 -1.282977481131949,50.65705987210653,0 -1.282391400692436,50.65960393897112,0 -1.282287940304029,50.66117660174188,0 -1.282378019544753,50.66243381830204,0 -1.282853273915716,50.66493442016786,0 -1.282804966202832,50.66839627879212,0 -1.283049730017428,50.6709093065272,0 -1.279406460315038,50.67317999799425,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>A3020</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY DUAL C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.297781440510935,50.70786977018095,0 -1.299729063471211,50.71021958544268,0 -1.300829807884919,50.71238441666484,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>A3020</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3020</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY DUAL C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.293444250311855,50.70593364815943,0 -1.297065643489204,50.7074375772693,0 -1.297781440510935,50.70786977018095,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>A3021</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3021</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3021</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.257005623179443,50.72506322763809,0 -1.260074007447704,50.72814033946251,0 -1.261754267094371,50.72941000044094,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>A3021</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3021</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3021</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.269396565909896,50.72140894945846,0 -1.261754267094371,50.72941000044094,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>A3021</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3021</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3021</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.261754267094371,50.72941000044094,0 -1.265037861121829,50.73243645255351,0 -1.265754889893457,50.73324961484718,0 -1.266298856391531,50.73409432869313,0 -1.266463456636553,50.73469672295806,0 -1.266437487733663,50.73565143172854,0 -1.266075847006075,50.73756438619269,0 -1.265574898499981,50.73878679242084,0 -1.266803684055965,50.74177487616367,0 -1.267278684143766,50.7426689719702,0 -1.268084290110442,50.74344049852789,0 -1.270113663438574,50.74483801709896,0 -1.270903214252551,50.74564412732489,0 -1.271546325314253,50.7464993196408,0 -1.271977215169642,50.74739491315258,0 -1.272498387543809,50.74926194309582,0 -1.274732798196114,50.7514341266691,0 -1.274985735359081,50.75333183741123,0 -1.2746744697187,50.75521075819544,0 -1.279007968770863,50.7564311999374,0 -1.280244948334962,50.75694728223274,0 -1.282568714525599,50.75813720958908,0 -1.284825970663893,50.75887047718557,0 -1.286909524317768,50.75872890194111,0 -1.288803478488711,50.75835528712567,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>A3054</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3054</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3054</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.293444250311855,50.70593364815943,0 -1.283186311253208,50.70616577529822,0 -1.280199968002477,50.70920121492604,0 -1.276619020566815,50.71311369432838,0 -1.274356297991245,50.71626235270634,0 -1.271415817666585,50.71917934383234,0 -1.269980106847231,50.72086861271116,0 -1.269396565909896,50.72140894945846,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>A3054</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3054</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3054</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.297781440510935,50.70786977018095,0 -1.3000525416854,50.70752375055883,0 -1.301039305661296,50.70735567582128,0 -1.301513165647205,50.70739368179968,0 -1.304292748563094,50.70808869700278,0 -1.317918535256132,50.70601095028827,0 -1.319622980374345,50.70566119693773,0 -1.336653343321738,50.70306146844866,0 -1.34147949868167,50.7022393916037,0 -1.346873226124799,50.70132064986947,0 -1.349126205624064,50.70223252369449,0 -1.352766165534809,50.70311475787211,0 -1.354657435361678,50.70334459222317,0 -1.355610895797459,50.70323018107118,0 -1.358003220842025,50.70267047179064,0 -1.359439937946168,50.70271345886776,0 -1.360402003487639,50.70288052923834,0 -1.362288628980592,50.70335041177477,0 -1.364868144616465,50.70433726561994,0 -1.365779235253603,50.70450797103652,0 -1.366747673548628,50.70452187746749,0 -1.369254164311754,50.70433540187251,0 -1.370245455982079,50.70433492727722,0 -1.375686109550204,50.70475750984438,0 -1.377119812183023,50.70459649064003,0 -1.379468755096443,50.70410193975238,0 -1.383161975886337,50.70314082425558,0 -1.385374551861449,50.70242960246686,0 -1.389458851178088,50.7009718867231,0 -1.392233272377911,50.70019307394779,0 -1.393668997768145,50.699969993394,0 -1.395110241242802,50.699999442001,0 -1.396559788267458,50.70014339453891,0 -1.402384504003562,50.70107941509951,0 -1.404774556578631,50.70121829344983,0 -1.406195118477182,50.70142025156392,0 -1.406989675604724,50.70174463132207,0 -1.408311080831246,50.70272843441087,0 -1.409034195730077,50.70311781439113,0 -1.410361231157852,50.70354568558008,0 -1.411803029269557,50.70375559637588,0 -1.414263135188457,50.70396801546499,0 -1.418702024103845,50.70401843899785,0 -1.42165866458756,50.7038969412707,0 -1.423095937740906,50.70369544775755,0 -1.426359392329511,50.70291357081413,0 -1.428449580006875,50.70246612955145,0 -1.430918373803972,50.70217149410431,0 -1.432396242430402,50.70210695552154,0 -1.4343107985121,50.70231502781632,0 -1.438063025960514,50.70319660652174,0 -1.440056017737917,50.70361376570389,0 -1.444622662689228,50.70483672461024,0 -1.450186640632161,50.70617132260971,0 -1.452452908824101,50.70651499916323,0 -1.454430755538074,50.70655097674252,0 -1.457048449983917,50.70674538676423,0 -1.459526673822656,50.70675455952555,0 -1.461509232479551,50.70676373020642,0 -1.463139089371503,50.70676674774889,0 -1.465611479680947,50.70694060221668,0 -1.469025639399753,50.70731716669291,0 -1.470409881511372,50.70764054654401,0 -1.473635337947931,50.70855502075761,0 -1.476309246950631,50.70807500889953,0 -1.480194038142397,50.70756792883325,0 -1.483070603027696,50.70741740527105,0 -1.484175260491797,50.70710043643794,0 -1.485479981215444,50.706730781118,0 -1.48723925867157,50.70630928378717,0 -1.488098910469611,50.70616333113505,0 -1.488515923496488,50.70623314654708,0 -1.488918989244794,50.70641369035764,0 -1.489739777126209,50.70644916449431,0 -1.490330146301286,50.70652683023962,0 -1.491156991219205,50.70660552515549,0 -1.492222744592132,50.70646000353386,0 -1.495920462680969,50.70605657963745,0 -1.497831805095399,50.70569144719952,0 -1.499346611696022,50.70573716965178,0 -1.503092293426019,50.70629428928433,0 -1.504011467562798,50.70628795248111,0 -1.504415815285659,50.70621835982138,0 -1.505095594782366,50.7059215195487,0 -1.505690623872702,50.70552215822568,0 -1.506730241657702,50.70454949948865,0 -1.507626021663843,50.7034068003585,0 -1.510302719104647,50.69942492487944,0 -1.513505467327879,50.69836270258447,0 -1.514298982419624,50.69800431906765,0 -1.514949443698322,50.69756664733536,0 -1.515475429990744,50.69706055840789,0 -1.516121210342781,50.69622177860188,0 -1.517726311921355,50.6935205856433,0 -1.520981677795636,50.69234791836418,0 -1.522842894706726,50.69130687591445,0 -1.524969826862658,50.68957029325885,0 -1.529131248815437,50.6856533775197,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>A3054</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3054</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3054</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.269396565909896,50.72140894945846,0 -1.268775211417576,50.72182944025293,0 -1.267989039023725,50.72218945064639,0 -1.261780205579199,50.72423570275933,0 -1.25991397077068,50.72463872273953,0 -1.257005623179443,50.72506322763809,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>A3054</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3054</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3054</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.15750891542544,50.72726480843424,0 -1.163468708812798,50.72676802556895,0 -1.167728362509246,50.72625884810434,0 -1.171503930872978,50.72732414035379,0 -1.173388563391765,50.72771314889464,0 -1.174851129912197,50.72775632968994,0 -1.177339417927433,50.72758604390958,0 -1.181592577956634,50.72743610599219,0 -1.186979032457312,50.7272939215676,0 -1.192864465040254,50.72696879323112,0 -1.198318469730256,50.7270127118781,0 -1.199924084646213,50.72681708053304,0 -1.200392268254028,50.7268630085592,0 -1.203036315388323,50.72785729748668,0 -1.203917758726436,50.72793939883458,0 -1.20480100116216,50.72773966568435,0 -1.207039481639305,50.72690776973522,0 -1.207515044199216,50.72685263812484,0 -1.208521414713071,50.72690254938147,0 -1.210025106877421,50.7269514154908,0 -1.2119424264228,50.72667598344883,0 -1.215222239006793,50.72593504765031,0 -1.219323849380108,50.72481705307683,0 -1.220022478436286,50.72447414952428,0 -1.220491100396567,50.72448492720249,0 -1.225335531401855,50.72482558680841,0 -1.23094547823112,50.72525885485114,0 -1.234903536418288,50.72510017616582,0 -1.240020813697048,50.72405448335957,0 -1.249078339706042,50.72465274158481,0 -1.257005623179443,50.72506322763809,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>A3055</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3055</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3055</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.176258232116328,50.62757667554067,0 -1.170728228393835,50.63361290599977,0 -1.169931318558889,50.63908119712132,0 -1.168376166993353,50.64212534813358,0 -1.164602952389802,50.64604472713071,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>A3055</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3055</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3055</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.164806529562048,50.64585523320945,0 -1.161439015360741,50.64995341001971,0 -1.157898776450078,50.6514704566957,0 -1.155780970237361,50.65444215778523,0 -1.153662639455264,50.65763117639919,0 -1.152070979342009,50.65935543547831,0 -1.15096594160023,50.66039588830284,0 -1.147340906287733,50.66298100905473,0 -1.149828939135022,50.66623656145259,0 -1.147815657216614,50.66802046592115,0 -1.141488622939175,50.67354962704037,0 -1.140085663236028,50.67474579060913,0 -1.139188406995943,50.6755112196144,0 -1.141123595332602,50.67804343471762,0 -1.140015687878292,50.67918061810883,0 -1.139953733375231,50.67978269156236,0 -1.1402252262722,50.68073480239631,0 -1.140674072996976,50.68328474373416,0 -1.140782506724042,50.68485859545947,0 -1.140655228999038,50.68579787435994,0 -1.139952817980619,50.68765721237998,0 -1.139810397733041,50.68857164762548,0 -1.139932419141006,50.68886652793876,0 -1.14062716575484,50.6897307478858,0 -1.141167115240637,50.69117360102748,0 -1.1410522536815,50.6974678341636,0 -1.142436822908841,50.70003543992,0 -1.143752736871519,50.7046820966839,0 -1.143719963215721,50.70655043079881,0 -1.143837022089444,50.70814701471318,0 -1.143757481370043,50.70876578184438,0 -1.143090646556497,50.70992307069266,0 -1.141355590152756,50.71185895725827,0 -1.141319332077704,50.7138371832486,0 -1.141233628516271,50.71851287537313,0 -1.140874517886781,50.72264709215494,0 -1.143984304335391,50.72302957414659,0 -1.1442347594956,50.72483010196473,0 -1.144254153676376,50.72624376172336,0 -1.144490147637947,50.72682158220677,0 -1.145129765300624,50.72726962492499,0 -1.146388711615741,50.72784989851128,0 -1.146717528707623,50.72807802798211,0 -1.147212358125555,50.72930702890214,0 -1.148387245979583,50.72983127034491,0 -1.15125348488982,50.73054057605381,0 -1.152233433336672,50.73066028154535,0 -1.153145077341187,50.73054521358177,0 -1.155320513297386,50.72973800384123,0 -1.157753534910952,50.72942488501288,0 -1.15750891542544,50.72726480843424,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>A3055</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3055</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3055</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.176258232116328,50.62757667554067,0 -1.174649644211249,50.62584829786002,0 -1.174678829540471,50.62517551157263,0 -1.174997840601498,50.62409575537694,0 -1.175362316258908,50.62316392200897,0 -1.176898913828729,50.62237478619421,0 -1.178225515727632,50.62143172594114,0 -1.178439814231471,50.62115572260682,0 -1.178712091674532,50.62020217520743,0 -1.179163873234194,50.61967352924744,0 -1.179875113592561,50.61923887718703,0 -1.181102067747097,50.6186712388609,0 -1.18287336392416,50.61811216104987,0 -1.184125117189997,50.61756201728311,0 -1.184741082157418,50.6170904263406,0 -1.185065637140437,50.61640070939903,0 -1.184955377446195,50.61613843282635,0 -1.184209496016649,50.61586569297706,0 -1.182135455600214,50.61556980820028,0 -1.180140350886583,50.61543504872245,0 -1.179707347779139,50.61531537292963,0 -1.179283017890289,50.61507075756964,0 -1.179028027142915,50.6147774213535,0 -1.179100438195341,50.61452271699286,0 -1.179336702423795,50.61427429016418,0 -1.180448498747707,50.61355899524111,0 -1.181239595886452,50.61317588131035,0 -1.182960751825645,50.61254496301336,0 -1.184209877377145,50.6119249322951,0 -1.184433210780935,50.61167793590531,0 -1.184456004658634,50.6114050780133,0 -1.183044777846121,50.6090048638204,0 -1.182693214171482,50.60735193740464,0 -1.182354723354672,50.60682258125046,0 -1.182056764344947,50.60663784624414,0 -1.181641768201201,50.60652791953071,0 -1.178034510322798,50.60625236911302,0 -1.177142733220053,50.60593033897581,0 -1.176778149348255,50.60568594623377,0 -1.176639838227999,50.60541626118748,0 -1.176931069208775,50.60501472514508,0 -1.177342200359342,50.60438112269408,0 -1.177649986806028,50.60393774125064,0 -1.178360008762979,50.60336989353291,0 -1.178972221566796,50.60267405251294,0 -1.179781167666825,50.60192963263902,0 -1.18059974113966,50.60158088799244,0 -1.182822106509226,50.60086869076038,0 -1.184204541202428,50.600522253527,0 -1.191797625533572,50.59906392735238,0 -1.192640877268269,50.59876805100767,0 -1.194014386299861,50.59784470341954,0 -1.195584863575045,50.59622142149435,0 -1.196585102047193,50.59556336976825,0 -1.197429615330628,50.59525424655941,0 -1.199750135194617,50.59463734679687,0 -1.201956769440392,50.5939172800676,0 -1.202879927255098,50.59370793713724,0 -1.204845729127489,50.59351657833741,0 -1.209939079162379,50.59302201320349,0 -1.215361580517858,50.59165827597192,0 -1.219078851467464,50.59060113946425,0 -1.225108005687392,50.58879545684686,0 -1.229724447625952,50.58753619339215,0 -1.232650050199447,50.58692821281517,0 -1.234840873379452,50.58669556988209,0 -1.238855711170807,50.58515912574759,0 -1.24124306103757,50.58480102637988,0 -1.242701703509889,50.58467570473875,0 -1.245653359788679,50.58488036876079,0 -1.25691118171469,50.58202338469331,0 -1.262481250716515,50.58079094502703,0 -1.267936758010917,50.58089803312661,0 -1.271912122619599,50.5808392312984,0 -1.273322284925321,50.58061664702566,0 -1.27459769455178,50.58008150490096,0 -1.27547956058283,50.57984310186307,0 -1.277447995747316,50.58005300149532,0 -1.277920375722975,50.58001042652434,0 -1.279744426688454,50.57950210100157,0 -1.280733782315572,50.57936252786396,0 -1.281720279835839,50.57933615202288,0 -1.283167485211543,50.57962574510231,0 -1.283993957484511,50.57998183114457,0 -1.284486353660491,50.58049117003971,0 -1.284694859953577,50.58146721442551,0 -1.284433667834856,50.5823921698509,0 -1.283853582198237,50.58327658339552,0 -1.283069093303069,50.5840677359375,0 -1.280951892116381,50.58582308304909,0 -1.285134278012304,50.58620468936036,0 -1.286117897546147,50.58616323931569,0 -1.286604190600518,50.58606351808174,0 -1.287800158153083,50.5855226192736,0 -1.289873244462527,50.58415681766576,0 -1.291779802523493,50.58312243962125,0 -1.29262197575451,50.58282583926763,0 -1.293093309584289,50.58276925673583,0 -1.294112039008456,50.58283047365843,0 -1.295568439195462,50.58301807491111,0 -1.296964730279941,50.58333506556224,0 -1.298740434402799,50.58389893698947,0 -1.300395085160692,50.58459946777548,0 -1.301554601160735,50.58520149963569,0 -1.302215746333162,50.58565502531017,0 -1.302688466351405,50.586644216874,0 -1.302938343284805,50.58684571818349,0 -1.303324796137845,50.58689569278051,0 -1.303785794750536,50.58685258346816,0 -1.30634120886781,50.58637860059356,0 -1.307319549281095,50.58631175661999,0 -1.307747466110589,50.58641439269046,0 -1.308546294415642,50.58676042323216,0 -1.312265686059046,50.58888996248264,0 -1.311704423282217,50.58978253842551,0 -1.311608223600033,50.59008260854697,0 -1.311700479170923,50.5903533953155,0 -1.31249633561072,50.5910846436751,0 -1.315035949312982,50.59268336612357,0 -1.32091456601625,50.59610759359056,0 -1.323180329458553,50.59732520453353,0 -1.325183746698802,50.59824169509234,0 -1.329694839022821,50.6000541791193,0 -1.332610970211413,50.60136544777874,0 -1.3365494930638,50.60327042249077,0 -1.347792861673263,50.60893870270953,0 -1.352551280943386,50.61122002585979,0 -1.354426700794945,50.61223853432779,0 -1.356785225090418,50.61383387487754,0 -1.36223245095823,50.61833075680449,0 -1.367726370543424,50.62238123859668,0 -1.368760083326094,50.6231075338651,0 -1.373745623811432,50.62569416939252,0 -1.377275871115047,50.62742167597501,0 -1.385907295727727,50.63110186778431,0 -1.399516388106823,50.63739474681439,0 -1.411427960171419,50.63948160886586,0 -1.414717795411378,50.64014605347227,0 -1.417004401888753,50.64070340701143,0 -1.420143339585412,50.64226473393076,0 -1.421019222987507,50.64254877642385,0 -1.423824430121706,50.6431928308478,0 -1.425453775240908,50.64389083261291,0 -1.428533074578401,50.6454890460826,0 -1.43523608554446,50.64872501511714,0 -1.436718272580563,50.64956360903568,0 -1.440247730601444,50.65180220046469,0 -1.442363036787644,50.65283864229698,0 -1.443485014163149,50.65316587093688,0 -1.446830944592776,50.65383551369083,0 -1.448542464557767,50.65445003548611,0 -1.452365458657439,50.65646455132831,0 -1.454932756672645,50.65794472267037,0 -1.456313105529085,50.65884877903039,0 -1.458631080222973,50.66003675820184,0 -1.459706007647444,50.66067962229425,0 -1.460560155006571,50.66145446242097,0 -1.462583766569261,50.66362384969755,0 -1.463000469746083,50.66419269175578,0 -1.463773016652029,50.6656946696132,0 -1.464246231495372,50.66623678763211,0 -1.466815335238708,50.66817908635017,0 -1.467513533625252,50.66861537508389,0 -1.468394452260838,50.66892416315217,0 -1.469862230613827,50.66926879477656,0 -1.470242401135473,50.66943751976964,0 -1.470509956741052,50.66966724400347,0 -1.470769398638156,50.67027948901583,0 -1.471031737811284,50.67199580531336,0 -1.47121819201817,50.67225357774684,0 -1.471872393175941,50.67259674244072,0 -1.473118067107192,50.67295975254828,0 -1.47503319932191,50.67329239998306,0 -1.481149191719126,50.67384692365007,0 -1.484603636638856,50.67400828003304,0 -1.496070813950911,50.67429487406056,0 -1.498982626007399,50.67449374421066,0 -1.499884959046721,50.67465490051043,0 -1.501209182348857,50.67564511160468,0 -1.499291099983659,50.6766033677396,0 -1.498716272167155,50.67705018642929,0 -1.498645597084819,50.67728127073451,0 -1.498732524353479,50.67751824798569,0 -1.499245225011395,50.67800417860717,0 -1.501171122625379,50.67924221002644,0 -1.503066779252768,50.68025678389107,0 -1.503673421079249,50.68074030624609,0 -1.504500349402827,50.681893833756,0 -1.504929582721859,50.68280348987818,0 -1.505830369745975,50.68301711478271,0 -1.506421258312316,50.68301961452615,0 -1.507367464861642,50.68294852626516,0 -1.508426365199917,50.68340349935685,0 -1.510551148902678,50.68395940148208,0 -1.513504818700181,50.68415745092668,0 -1.514991112876488,50.68415662057699,0 -1.517533401163242,50.68470664041534,0 -1.519481127323629,50.6855295230768,0 -1.520353351763316,50.68579750203591,0 -1.520822577129441,50.68585635416451,0 -1.522335050336049,50.68580562711316,0 -1.529131248815437,50.6856533775197,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>A3056</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>A3056</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ROAD_NO</td>
+
+<td>A3056</td>
+
+</tr>
+
+<tr>
+
+<td>ROAD_TYPE</td>
+
+<td>A ROAD NON-PRIMARY SINGLE C/W</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.164704176786335,50.64598180157606,0 -1.167721441321024,50.6453666820463,0 -1.168656560856453,50.64519403419439,0 -1.171805876925864,50.64425627142042,0 -1.174272086374069,50.64410964638274,0 -1.177103549797598,50.6439498106494,0 -1.17849574904798,50.64521865007459,0 -1.179265809546579,50.64574171137948,0 -1.17972041425436,50.64580543429315,0 -1.185684347451421,50.64575426595425,0 -1.188150230693941,50.64561993974476,0 -1.19158404505139,50.64531547871075,0 -1.19355805908842,50.64533302364878,0 -1.198008613783714,50.6455344250784,0 -1.200189705417521,50.64593512302427,0 -1.205064463109917,50.64648208171851,0 -1.207872218653014,50.6469672270082,0 -1.208761957287771,50.64723218158677,0 -1.210003175181038,50.6477595890553,0 -1.212612893294631,50.64921010196351,0 -1.215150294779805,50.65023083537254,0 -1.215907706876655,50.65061678563028,0 -1.21647822955961,50.65110732058386,0 -1.21725070540384,50.65229103316391,0 -1.21835686062543,50.6539817503647,0 -1.218830232891918,50.65452521957953,0 -1.220581768755096,50.65564029335056,0 -1.222117435205471,50.65687961910147,0 -1.222593358606273,50.65742722634648,0 -1.22344600391195,50.65891242399776,0 -1.223890949286618,50.65947025273173,0 -1.227093434580455,50.66228123647304,0 -1.228341633093587,50.66362819303075,0 -1.229058116012185,50.66480542859628,0 -1.229740748583267,50.66632434402555,0 -1.230687797314528,50.6694165110324,0 -1.231295606142313,50.67094868425656,0 -1.231777536741231,50.67185447828675,0 -1.232477448636563,50.67267204637496,0 -1.233415281896536,50.67339405154803,0 -1.234492767117222,50.67405887178672,0 -1.237508355356869,50.6757337865469,0 -1.239116843085234,50.67647551563432,0 -1.239978216367129,50.67676297536909,0 -1.24136316583906,50.67705653686673,0 -1.245301987513966,50.67750541259537,0 -1.246431415497174,50.67627638379408,0 -1.247889516220438,50.67500459402802,0 -1.250578137415409,50.67199304115285,0 -1.251443920771518,50.67122756158282,0 -1.25242354007626,50.67038492838677,0 -1.252842723818278,50.67038294182355,0 -1.253338163649594,50.67054277431331,0 -1.255208660737917,50.67090888845557,0 -1.257175343505723,50.67076802973703,0 -1.258162825636854,50.6707668592262,0 -1.267561324061084,50.67128254708332,0 -1.274428817764317,50.67184045931354,0 -1.276336422867197,50.67211707592481,0 -1.279406460315038,50.67317999799425,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
